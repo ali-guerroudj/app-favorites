@@ -1,0 +1,76 @@
+.header1 {
+    height: 20vh;
+    width: 100vw;
+    background-color: rgb(2, 3, 6);
+    margin: 0;
+}
+
+.header__navbar1 {
+    width: 100vw;
+    height: 15vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+
+
+.logo2,
+.logo3,
+.logo4 {
+    height: auto;
+}
+
+.logo2 {
+    margin-right: 15vw;
+    height: 4vw;
+}
+
+.logo3 {
+    margin-right: 10vw;
+    height: 5vw;
+    margin-top: 5px;
+}
+
+.logo4 {
+    margin-right: 20vw;
+    height: 9vh;
+    margin-top: 5px;
+}
+
+.acceuil1 {
+    font-size: 1.5rem;
+    color: white;
+}
+
+body {
+    background-color: yellow;
+    margin: 0;
+    padding: 0;
+}
+
+.title1 {
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+.title2 {
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+.texte1 {
+    font-size: 1rem;
+    font-family: Verdana, Tahoma, sans-serif;
+    margin: 0 40px;
+}
+
+.lien1 {
+
+color: red;
+font-size: 1rem;
+
+}
+
